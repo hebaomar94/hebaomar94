@@ -8,15 +8,17 @@
 
 
 🚀 Languages , Tools and skills:
+
 C  JavaScript   python Html Css 
 
-![html](https://user-images.githubusercontent.com/97067717/207963104-d74134f5-a507-418e-afbd-5f66b89c896b.png)
-![css](https://user-images.githubusercontent.com/97067717/207963370-a8718413-1181-4766-81bc-688297622308.png)
-![java-script](https://user-images.githubusercontent.com/97067717/207963482-c71d5948-0411-45db-8903-3a257fc85399.png)
-![c-](https://user-images.githubusercontent.com/97067717/207963636-5406afaa-f78a-4567-abb4-68a8b1115410.png)
-![python](https://user-images.githubusercontent.com/97067717/207964599-48e05a02-c527-466a-a9e2-e20eec48d149.png)
-![visual-studio](https://user-images.githubusercontent.com/97067717/207964798-49c78ac8-a12c-47a8-95d2-f458fe395abc.png)
-![atom](https://user-images.githubusercontent.com/97067717/207965039-bdbb8a83-42bb-472e-83dd-0e522c7cd82e.png)
+![image](https://user-images.githubusercontent.com/97067717/207966403-6f4b7f1b-0b43-4dbd-b84f-8c3cb5a53ab2.png)
+![image](https://user-images.githubusercontent.com/97067717/207966464-c97757a1-d69b-410e-be1d-606469d296f0.png)
+![image](https://user-images.githubusercontent.com/97067717/207966517-9efd67ac-e1da-412f-97a1-7af86bd9bfdb.png)
+![image](https://user-images.githubusercontent.com/97067717/207966567-86d3066b-2536-46e9-85e8-aaa4c64e3a3b.png)
+![image](https://user-images.githubusercontent.com/97067717/207966622-349bbd4f-a222-4193-8003-4d48bd29ee1a.png)
+![image](https://user-images.githubusercontent.com/97067717/207966719-c62d7894-2cb3-42af-b19c-51afd0e7f9b8.png)
+![image](https://user-images.githubusercontent.com/97067717/207966793-cf07f16c-b91f-4378-bbbd-c8fc1e9ab78f.png)
+
 
 Hobbies:
 https://www.instagram.com/myworld_943/
