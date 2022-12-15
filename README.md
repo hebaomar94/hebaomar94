@@ -17,7 +17,6 @@ C  JavaScript   python Html Css
 ![image](https://user-images.githubusercontent.com/97067717/207967052-60dde228-9b68-4d28-b06e-6b9c94bd9d7b.png)
 ![image](https://user-images.githubusercontent.com/97067717/207967074-bcaa77b0-3ced-46b8-8b0f-ede882e66790.png)
 ![image](https://user-images.githubusercontent.com/97067717/207967093-ba6e693c-8eed-4835-8c8a-096796748d30.png)
-![image](https://user-images.githubusercontent.com/97067717/207967184-19e2af85-663a-4e34-8e4c-9a8dde169806.png)
 ![image](https://user-images.githubusercontent.com/97067717/207967212-bf04187c-ba8c-4b56-bd3d-f8a610c4a548.png)
 
 
