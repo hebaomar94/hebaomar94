@@ -8,8 +8,10 @@
 
 
 🚀 Languages , Tools and skills:
-
 C  JavaScript   python Html Css 
+
+
+
 ![image](https://user-images.githubusercontent.com/97067717/207966992-c7e8f5b7-2750-470c-8bb5-9010872c6999.png)
 ![image](https://user-images.githubusercontent.com/97067717/207967023-77075a7d-9f73-482b-92f7-c84685f1dd1f.png)
 ![image](https://user-images.githubusercontent.com/97067717/207967052-60dde228-9b68-4d28-b06e-6b9c94bd9d7b.png)
@@ -17,6 +19,7 @@ C  JavaScript   python Html Css
 ![image](https://user-images.githubusercontent.com/97067717/207967093-ba6e693c-8eed-4835-8c8a-096796748d30.png)
 ![image](https://user-images.githubusercontent.com/97067717/207967184-19e2af85-663a-4e34-8e4c-9a8dde169806.png)
 ![image](https://user-images.githubusercontent.com/97067717/207967212-bf04187c-ba8c-4b56-bd3d-f8a610c4a548.png)
+
 
 
 
