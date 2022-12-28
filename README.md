@@ -1,4 +1,5 @@
-https://static.wixstatic.com/media/86617f_82c89f51123a48409e4e72bb2059db74~mv2.png/v1/fit/w_2500,h_1330,al_c/86617f_82c89f51123a48409e4e72bb2059db74~mv2.png
+ ![86617f_82c89f51123a48409e4e72bb2059db74_mv2](https://user-images.githubusercontent.com/97067717/209854989-85afd894-bf35-4c99-b1e0-d3f0711f0a44.png)
+
 
 - 👋 Hi, I’m Heba
 - 👩‍ I’m interested in business of development
