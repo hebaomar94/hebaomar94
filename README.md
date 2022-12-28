@@ -1,5 +1,4 @@
-https://ih1.redbubble.net/image.3090314226.0352/pp,840x830-pad,1000x1000,f8f8f8.jpg
-
+https://static.wixstatic.com/media/86617f_82c89f51123a48409e4e72bb2059db74~mv2.png/v1/fit/w_2500,h_1330,al_c/86617f_82c89f51123a48409e4e72bb2059db74~mv2.png
 
 - 👋 Hi, I’m Heba
 - 👩‍ I’m interested in business of development
