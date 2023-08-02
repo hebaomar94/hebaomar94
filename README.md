@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Heba
 - 👩‍ I’m interested in business of iOS development
-- - 🌱 I’m currently learning Meta iOS Developer Professional Certificate
+- 🌱 I’m currently learning Meta iOS Developer Professional Certificate
 - 🌱 I’m currently learning at ALX(African Leadership)
 
 
