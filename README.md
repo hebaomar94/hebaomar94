@@ -4,6 +4,9 @@
 
 Hey there! Welcome to my GitHub profile. I'm Heba Omar, and I recently completed the ALX Software Engineering Bootcamp, setting the stage for my journey into the exciting world of software development. I'm passionate about iOS development and am actively expanding my skills in this field.
 
+
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-%23FF5722.svg?&style=for-the-badge&logo=pdf&logoColor=white)](https://github.com/hebaomar94/Heba%20Omar%20ALX%20SE%20Front%20End%20Certificate.pdf)
+
 ## 🌟 What's New?
 
 - 👩‍💻 Currently diving deep into the world of iOS development, working towards earning the Meta iOS Developer Professional Certificate.
@@ -19,9 +22,11 @@ Hey there! Welcome to my GitHub profile. I'm Heba Omar, and I recently completed
 - CSS
 - XCode
 
-### 🌐 Connect with Me:
+### 🌐 My Blog:
 
-[![Heba Omar's Blog](https://img.shields.io/badge/Heba%20Omar's%20Blog-%230077B5.svg?&style=for-the-badge&logo=hashnode&logoColor=white)](https://www.yourbloglinkhere.com)
+[[![Heba Omar's Blog](https://img.shields.io/badge/Heba%20Omar's%20Blog-%230077B5.svg?&style=for-the-badge&logo=hashnode&logoColor=white)](https://www.yourbloglinkhere.com)
+](https://hashnode.com/@heba22)
+
 
 ## 🛠️ Skills I've Mastered
 
