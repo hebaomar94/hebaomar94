@@ -1,5 +1,9 @@
 # 👋 Hi, I’m Heba Omar
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhebaomar94&count_bg=%235FFFFE&title_bg=%23E389ED&icon=github.svg&icon_color=%236B47B8&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
 ![Heba Omar](https://github.com/hebaomar94/hebaomar94/assets/97067717/630ebfeb-4cb7-40b3-b9b5-57c6b7399f7e)
 
 Hey there! Welcome to my GitHub profile. I'm Heba Omar, and I recently completed the ALX Software Engineering Bootcamp, setting the stage for my journey into the exciting world of software development. I'm passionate about iOS development and am actively expanding my skills in this field.
@@ -7,8 +11,6 @@ Hey there! Welcome to my GitHub profile. I'm Heba Omar, and I recently completed
 
 [![ALX Certificate](https://img.shields.io/badge/ALX%20Certificate-%23FF5722.svg?&style=for-the-badge&logo=pdf&logoColor=white)](https://github.com/hebaomar94/hebaomar94/raw/main/Heba%20Omar%20ALX%20SE%20Front%20End%20Certificate.pdf) 
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhebaomar94&count_bg=%235FFFFE&title_bg=%23E389ED&icon=github.svg&icon_color=%236B47B8&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ## 🌟 What's New?
