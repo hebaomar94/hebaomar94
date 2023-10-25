@@ -16,10 +16,10 @@
 -Css 
 
 
- <a href="https://hashnode.com/@heba22">
   <img alt="heba omar's Blog" src="https://img.shields.io/badge/heba%20omar's%20Blog-%230077B5.svg?&style=for-the-badge&logo=hashnode&logoColor=white">
  </a>
- 
+ ![swift](https://github.com/hebaomar94/hebaomar94/assets/97067717/fe022ffd-72b5-493c-a3e3-47389c5e9559)
+
  ![image](https://github.com/hebaomar94/hebaomar94/assets/97067717/03eae028-41fe-49f9-8787-069d2c56f67b)
 
 ![image](https://user-images.githubusercontent.com/97067717/207966992-c7e8f5b7-2750-470c-8bb5-9010872c6999.png)
@@ -30,9 +30,7 @@
 ![image](https://user-images.githubusercontent.com/97067717/207969976-b47811fc-cae4-4d72-93e1-226e29b02b96.png)
 
 
-My-Website:- <3
-http://127.0.0.1:5500/my-website-main/index.html 
 
 
-Hobbies:
-https://www.instagram.com/myworld_943/
+
+
