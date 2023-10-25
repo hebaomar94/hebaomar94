@@ -5,7 +5,7 @@
 Hey there! Welcome to my GitHub profile. I'm Heba Omar, and I recently completed the ALX Software Engineering Bootcamp, setting the stage for my journey into the exciting world of software development. I'm passionate about iOS development and am actively expanding my skills in this field.
 
 
-[Download Resume](https://github.com/hebaomar94/hebaomar94/raw/main/Heba%20Omar%20ALX%20SE%20Front%20End%20Certificate.pdf)
+[![ALX Certificate](https://img.shields.io/badge/ALX%20Certificate-%23FF5722.svg?&style=for-the-badge&logo=pdf&logoColor=white)](https://github.com/hebaomar94/hebaomar94/raw/main/Heba%20Omar%20ALX%20SE%20Front%20End%20Certificate.pdf)
 
 
 ## 🌟 What's New?
