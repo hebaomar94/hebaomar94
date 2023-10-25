@@ -1,8 +1,8 @@
  ![86617f_82c89f51123a48409e4e72bb2059db74_mv2](https://user-images.githubusercontent.com/97067717/209854989-85afd894-bf35-4c99-b1e0-d3f0711f0a44.png)
 
 
-                                                                                    #👋 Hi, I’m Heba
-                                                                       #Completed The ALX Software Engineering Bootcamp
+                                   #👋 Hi, I’m Heba      
+               #Completed The ALX Software Engineering Bootcamp
                                                                        
 - 👩‍ I’m interested in business of iOS development
 -  I’m currently learning Meta iOS Developer Professional Certificate
