@@ -24,8 +24,7 @@ Hey there! Welcome to my GitHub profile. I'm Heba Omar, and I recently completed
 
 ### 🌐 My Blog:
 
-[[![Heba Omar's Blog](https://img.shields.io/badge/Heba%20Omar's%20Blog-%230077B5.svg?&style=for-the-badge&logo=hashnode&logoColor=white)](https://www.yourbloglinkhere.com)
-](https://hashnode.com/@heba22)
+https://hashnode.com/@heba22
 
 
 ## 🛠️ Skills I've Mastered
