@@ -20,9 +20,7 @@
  </a>
 
  
-![image](https://github.com/hebaomar94/hebaomar94/assets/97067717/2e4e6033-11f1-417d-a3b1-e22abf7fccca)
 
- ![image](https://github.com/hebaomar94/hebaomar94/assets/97067717/03eae028-41fe-49f9-8787-069d2c56f67b)
 
 ![image](https://user-images.githubusercontent.com/97067717/207966992-c7e8f5b7-2750-470c-8bb5-9010872c6999.png)
 ![image](https://user-images.githubusercontent.com/97067717/207967023-77075a7d-9f73-482b-92f7-c84685f1dd1f.png)
