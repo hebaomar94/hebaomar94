@@ -9,13 +9,13 @@
 - 🌱 I’m currently learning at ALX(African Leadership)
 
 
-🚀 Languages , Tools and skills:
--Swift
--C  
--JavaScript
--python 
--Html 
--Css 
+ 🚀 Languages , Tools and skills:
+ -Swift
+ -C  
+ -JavaScript
+ -python 
+ -Html 
+ -Css 
 
 
   <img alt="heba omar's Blog" src="https://img.shields.io/badge/heba%20omar's%20Blog-%230077B5.svg?&style=for-the-badge&logo=hashnode&logoColor=white">
