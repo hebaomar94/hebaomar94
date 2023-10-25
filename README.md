@@ -43,7 +43,9 @@ Here are some of the key skills and technologies I've acquired during my journey
 ![Skill4](https://user-images.githubusercontent.com/97067717/207967052-60dde228-9b68-4d28-b06e-6b9c94bd9d7b.png)
 ![Skill5](https://user-images.githubusercontent.com/97067717/207967074-bcaa77b0-3ced-46b8-8b0f-ede882e66790.png)
 ![Skill7](https://user-images.githubusercontent.com/97067717/207969976-b47811fc-cae4-4d72-93e1-226e29b02b96.png)
-![Skill8](https://github.com/hebaomar94/hebaomar94/assets/97067717/80403dfa-76d9-40ef-a9c0-2b4aa11827d8)
+![Skill8](https://github.com/hebaomar94/hebaomar94/assets/97067717/80403dfa-76d9-40ef-a9c0-2b4aa11827d8)![Uploading image.png…]()
+
+
 
 ## 📂 Important Repositories
 
